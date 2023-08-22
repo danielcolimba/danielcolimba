@@ -2,8 +2,6 @@
 
 
 ###
-
-<h1 align="center">Hello friend 👋, I'm Danny Colimba</h1>
 <h3 align="center">Software Engineer from Ecuador</h3>
 
 ###
@@ -38,12 +36,14 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcolimba&theme=dark" alt="danielcolimba" height="220" alt="streak graph"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcolimba&theme=dark" alt="danielcolimba" width="500" alt="streak graph"/>
   </p>
-</div>
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=danielcolimba&show_icons=true&locale=en&theme=dark" alt="danielcolimba" height="180"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcolimba&show_icons=true&locale=en&layout=compact&theme=dark" alt="danielcolimba"  height="180"/>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=danielcolimba&show_icons=true&locale=en&theme=dark" alt="danielcolimba" width="500"/>
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcolimba&show_icons=true&locale=en&layout=compact&theme=dark" alt="danielcolimba"  width="300"/>
+  </p>
 </div>
 
 
