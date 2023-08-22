@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+<img src="https://raw.githubusercontent.com/danielcolimba/danielcolimba/output/snake.svg" alt="Snake animation" />
 
 ###
 <h3 align="center">Software Engineer from Ecuador</h3>
@@ -45,6 +46,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=danielcolimba&show_icons=true&locale=en&layout=compact&theme=dark" alt="danielcolimba"  width="300"/>
   </p>
 </div>
+
 
 
 
