@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-<img src="https://raw.githubusercontent.com/danielcolimba/danielcolimba/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/danielcolimba/danielcolimba/blob/output/snake.svg)
 
 ###
 <h3 align="center">Software Engineer from Ecuador</h3>
