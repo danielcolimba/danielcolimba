@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 
-![Snake animation](https://github.com/danielcolimba/danielcolimba/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/danielcolimba/danielcolimba/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 ###
 <h3 align="center">Software Engineer from Ecuador</h3>
